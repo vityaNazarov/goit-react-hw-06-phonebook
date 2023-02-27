@@ -1,0 +1,20 @@
+.contactsList {
+  margin: 0;
+}
+
+.contactsText {
+  margin-right: 30px;
+  margin-bottom: 8px;
+}
+
+.contactsBtn {
+  width: 100px;
+  border-radius: 3px;
+  padding: 0px 10px;
+  cursor: pointer;
+}
+
+.contactsBtn:focus,
+.contactsBtn:hover {
+  background-color: bisque;
+}
