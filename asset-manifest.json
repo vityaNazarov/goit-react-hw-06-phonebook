@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css",
-    "main.js": "/goit-react-hw-06-phonebook/static/js/main.07d3183d.js",
+    "main.css": "/goit-react-hw-06-phonebook/static/css/main.657b3bf1.css",
+    "main.js": "/goit-react-hw-06-phonebook/static/js/main.22e32f6b.js",
+    "static/css/214.45bb8931.chunk.css": "/goit-react-hw-06-phonebook/static/css/214.45bb8931.chunk.css",
+    "static/js/214.b5719e6f.chunk.js": "/goit-react-hw-06-phonebook/static/js/214.b5719e6f.chunk.js",
+    "static/css/159.2d4433da.chunk.css": "/goit-react-hw-06-phonebook/static/css/159.2d4433da.chunk.css",
+    "static/js/159.dbbde118.chunk.js": "/goit-react-hw-06-phonebook/static/js/159.dbbde118.chunk.js",
+    "static/css/554.31d6cfe0.chunk.css": "/goit-react-hw-06-phonebook/static/css/554.31d6cfe0.chunk.css",
+    "static/js/554.db778510.chunk.js": "/goit-react-hw-06-phonebook/static/js/554.db778510.chunk.js",
     "index.html": "/goit-react-hw-06-phonebook/index.html",
-    "main.7acaea2f.css.map": "/goit-react-hw-06-phonebook/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goit-react-hw-06-phonebook/static/js/main.07d3183d.js.map"
+    "main.657b3bf1.css.map": "/goit-react-hw-06-phonebook/static/css/main.657b3bf1.css.map",
+    "main.22e32f6b.js.map": "/goit-react-hw-06-phonebook/static/js/main.22e32f6b.js.map",
+    "214.45bb8931.chunk.css.map": "/goit-react-hw-06-phonebook/static/css/214.45bb8931.chunk.css.map",
+    "214.b5719e6f.chunk.js.map": "/goit-react-hw-06-phonebook/static/js/214.b5719e6f.chunk.js.map",
+    "159.2d4433da.chunk.css.map": "/goit-react-hw-06-phonebook/static/css/159.2d4433da.chunk.css.map",
+    "159.dbbde118.chunk.js.map": "/goit-react-hw-06-phonebook/static/js/159.dbbde118.chunk.js.map",
+    "554.db778510.chunk.js.map": "/goit-react-hw-06-phonebook/static/js/554.db778510.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.657b3bf1.css",
+    "static/js/main.22e32f6b.js"
   ]
 }
