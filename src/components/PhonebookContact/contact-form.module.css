@@ -21,6 +21,11 @@
   cursor: pointer;
 }
 
+.checkbox {
+  display: flex;
+  align-self: flex-start;
+}
+
 .btn:focus,
 .btn:hover {
 }

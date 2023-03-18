@@ -76,6 +76,7 @@ const ContactForm = () => {
 
       <label className={css.label}>Important Contact</label>
       <input
+        className={css.checkbox}
         name="importantContact"
         checked={importantContact}
         type="checkbox"
